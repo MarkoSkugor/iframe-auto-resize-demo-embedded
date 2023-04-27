@@ -1,0 +1,14 @@
+:host {
+  background: palegoldenrod;
+  display: block;
+  padding: 1rem;
+  width: fit-content;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 200px;
+  height: 200px;
+}
